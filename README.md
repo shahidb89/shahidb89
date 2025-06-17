@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shahid Hadi
+# Hi, I'm Shahid Hadi
 
 🎓 **Bioinformatician | Data Engineer | Data Scientist**  
 📍 Based in Wales, UK | 🌍 Open to remote and global opportunities  
